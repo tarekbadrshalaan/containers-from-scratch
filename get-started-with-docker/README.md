@@ -4,7 +4,7 @@
 - Docker  isn't the only technology for containerized there is `lxd`, `lxc` and `intel clear container` ... 
 
 
-## so let's get started
+## So let's get started
 
 * list all process in linux
 ```
