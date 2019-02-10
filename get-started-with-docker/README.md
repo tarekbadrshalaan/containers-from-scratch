@@ -181,7 +181,7 @@ docker push tarekbadr/myserver
 
 
 * pull images online and run 
-docker run -d -p 5000:9999 -e useport=9999 tarekbadr/myserver:latest
+docker run -d -p 5000:9999 -e USE_PORT=9999 tarekbadr/myserver:latest
 
 * call from host
 ```
